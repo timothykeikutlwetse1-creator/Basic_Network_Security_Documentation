@@ -1,5 +1,7 @@
 # Basic_Network_Security_Documentation
+
 Basic network security documentation covering network threats, protective control, secure configurations and security monitoring
+
 Basic Network Security Documentation 
 Project Overview This project provides basic network security documentation explaining common network threats and the measures used to protect computer networks. It is designed to help students and beginners understand how organisations maintain secure and reliable networks. 
 
