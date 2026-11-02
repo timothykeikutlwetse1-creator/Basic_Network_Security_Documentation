@@ -3,19 +3,24 @@
 Basic network security documentation covering network threats, protective control, secure configurations and security monitoring
 
 Basic Network Security Documentation 
+
 Project Overview This project provides basic network security documentation explaining common network threats and the measures used to protect computer networks. It is designed to help students and beginners understand how organisations maintain secure and reliable networks. 
 
-Project Objectives
-Identify common network security threats.
-Explain network security controls and their purposes.
-Promote secure network configuration and monitoring.
-Provide a checklist for reviewing basic network security practices. 
+**Project Objectives**
 
-Project Contents
+-Identify common network security threats.
+
+-Explain network security controls and their purposes.
+
+-Promote secure network configuration and monitoring.
+
+-Provide a checklist for reviewing basic network security practices. 
+
+**Project Contents**
 “network-security-guide.md” # Describes network threats and protective security controls.
 “network-security-checklist.md” # Lists recommended practices for improving network security. 
 
-Intended Audience 
+
 This documentation is intended for cybersecurity students, IT support personnel, network administrators and beginners learning about network security. 
 
 Key Topics 
